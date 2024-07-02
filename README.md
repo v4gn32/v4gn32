@@ -40,6 +40,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/v4gn32/v4gn32/output/snake.svg" alt="Snake animation](https://raw.githubusercontent.com/v4gn32/v4gn32/main/snake.svg)" />
+<img src="https://raw.githubusercontent.com/v4gn32/v4gn32/output/snake.svg" alt="Snake animation](https://raw.githubusercontent.com/v4gn32/v4gn32/main/snake.svg)" />
 
 ###
