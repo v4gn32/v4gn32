@@ -3,25 +3,29 @@
 ###
 
 <p align="left">
-  Sobre Mim<br><br>
+  <h3>Sobre Mim</h3><br><br>
   - Nome: Vagner de Oliveira Florencio<br><br>
   - Área de Atuação: Desenvolvedor de Software<br><br>
-  - Experiência: 2 anos em desenvolvimento de software<br><br>Especialidades:<br>
+  - Experiência: 2 anos em desenvolvimento de software<br><br>
+  
+  **Especialidades:**<br>
   - Desenvolvimento mobile (React Native, Android, iOS)<br>
   - Desenvolvimento web (React.js, Node.js)<br>
-  - Integração de APIs<br>- Metodologias Ágeis (Scrum, Kanban)<br><br>
+  - Integração de APIs<br>
+  - Metodologias Ágeis (Scrum, Kanban)<br><br>
   
   **Habilidades Técnicas:**<br>
   - Linguagens de Programação: JavaScript, TypeScript, Python, Java<br>
   - Frameworks e Bibliotecas: React, React Native, Express.js<br>
   - Ferramentas e Tecnologias: Git, Docker, Jenkins<br><br>
   
-  Formação Acadêmica: Análise e Desenvolvimento de Software<br><br>
+  **Formação Acadêmica:** Análise e Desenvolvimento de Software<br><br>
   
-  Certificações: <br>- Balta.io: C# e Lógica de Programação<br>
+  **Certificações:** <br>
+  - Balta.io: C# e Lógica de Programação<br>
   - Empowaredata: Expert Python, Expert Excel, Git & GitHub, Linkeding, PowerPoint, SQL, Power Automate e Power BI<br><br>
   
-  Idiomas: Inglês básico<br><br>
+  **Idiomas:** Inglês básico<br><br>
   
   Objetivo: Continuar a crescer na área de desenvolvimento de software, contribuindo para projetos inovadores e desafiadores.</p>
 
