@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  <h3>Sobre Mim</h3><br><br>
+  <h3>Sobre Mim</h3>
   - Nome: Vagner de Oliveira Florencio<br><br>
   - Área de Atuação: Desenvolvedor de Software<br><br>
   - Experiência: 2 anos em desenvolvimento de software<br><br>
@@ -27,7 +27,9 @@
   
   **Idiomas:** Inglês básico<br><br>
   
-  Objetivo: Continuar a crescer na área de desenvolvimento de software, contribuindo para projetos inovadores e desafiadores.</p>
+  >[!IMPORTANT]
+  >
+  >Continuar a crescer na área de desenvolvimento de software, contribuindo para projetos inovadores e desafiadores.</p>
 
 ###
 
