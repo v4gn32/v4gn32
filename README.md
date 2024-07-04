@@ -5,7 +5,7 @@
 <p align="left">
   <h3>Sobre Mim</h3>
   - Nome: Vagner de Oliveira Florencio<br><br>
-  - Área de Atuação: Desenvolvedor de Software<br><br>
+  - Área de Atuação: Desenvolvedor de Software e Analista de Dados<br><br>
   - Experiência: 2 anos em desenvolvimento de software<br><br>
   
   **Especialidades:**<br>
