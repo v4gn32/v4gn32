@@ -24,6 +24,7 @@
   **Certificações:** <br>
   - Balta.io: C# e Lógica de Programação<br>
   - Empowaredata: Expert Python, Expert Excel, Git & GitHub, Linkeding, PowerPoint, SQL, Power Automate e Power BI<br><br>
+  - DevClub: FullStack Pro, HTML, CSS, JAVASCRIPT,  Git & Github, Python, Linkeding, Curriculo, BitCoin, NODE.JS, React, TypeScript, Soft Skilss
   
   **Idiomas:** Inglês básico<br><br>
   
