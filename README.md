@@ -23,8 +23,9 @@
   
   **Certificações:** <br>
   - Balta.io: C# e Lógica de Programação<br>
-  - Empowaredata: Expert Python, Expert Excel, Git & GitHub, Linkeding, PowerPoint, SQL, Power Automate e Power BI<br><br>
-  - DevClub: FullStack Pro, HTML, CSS, JAVASCRIPT,  Git & Github, Python, Linkeding, Curriculo, BitCoin, NODE.JS, React, TypeScript, Soft Skilss
+  - Empowaredata: Expert Python, Expert Excel, Git & GitHub, Linkeding, PowerPoint, SQL, Power Automate e Power BI<br>
+  - DevClub: FullStack Pro, HTML, CSS, JAVASCRIPT,  Git & Github, Python, Linkeding, Curriculo, BitCoin, NODE.JS, React, TypeScript, Soft Skilss<br>
+  - PUC Minas: Análise e Desenvolvimento de Sistemas
   
   **Idiomas:** Inglês básico<br><br>
   
